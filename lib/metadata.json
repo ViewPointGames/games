@@ -1,6 +1,6 @@
 {
   "vaultName": "Cogent-Artifice",
-  "lastExport": 1747947691959,
+  "lastExport": 1748017448683,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -32,8 +32,8 @@
     "Cogent Artifice/_Welt/_Cheatsheets/Kampfstil.md",
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Ambulia/Decemora.md",
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Ambulia/Furropallidus.md",
-    "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Ambulia/Malucadductia.md",
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Ambulia/Malucadductia.png",
+    "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Ambulia/Malucadductia.md",
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Folia/Crassina.png",
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Folia/Crassina.md",
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Folia/Cutibeeren.png",
@@ -88,8 +88,8 @@
     "Cogent Artifice/_Welt/Biome/Taiga/Taiga.md",
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Magnamaw.md",
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Magnamaw.png",
-    "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Noctululare.png",
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Noctululare.md",
+    "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Noctululare.png",
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Nota.png",
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Nota.md",
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Striatudentis.png",
@@ -129,8 +129,8 @@
     "Cogent Artifice/_Welt/Haven Globus/Tectonic Map V0.jpg~",
     "Cogent Artifice/_Welt/Haven Globus/Tectonic Map V0.kra~",
     "Cogent Artifice/_Welt/Haven Globus/Tectonic Map V0.kra",
-    "Cogent Artifice/_Welt/Haven Globus/Tectonic Map V1.kra",
     "Cogent Artifice/_Welt/Haven Globus/Tectonic Map V1.kra~",
+    "Cogent Artifice/_Welt/Haven Globus/Tectonic Map V1.kra",
     "Cogent Artifice/_Welt/Haven Globus/Tektonische Karte V0.png",
     "Cogent Artifice/_Welt/Haven Globus/Tektonische Karte V1.png",
     "Cogent Artifice/_Welt/Territorien/Dalris/POI/Arcademia Belmore.md",
@@ -345,183 +345,183 @@
   ],
   "fileInfo": {
     "Cogent Artifice/_Regelwerk/Cogent Artifice/_Cheat Sheets/Artefakte.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3658,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/_cheat-sheets/artefakte.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/_Cheat Sheets/Begleiter.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2879,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/_cheat-sheets/begleiter.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/_Cheat Sheets/Fluchbeispiele.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 7010,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/_cheat-sheets/fluchbeispiele.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/_Cheat Sheets/Konstrukte.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 803,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/_cheat-sheets/konstrukte.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/_Cheat Sheets/Relative Größen.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 832,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/_cheat-sheets/relative-größen.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/_Cheat Sheets/Riten.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 5133,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/_cheat-sheets/riten.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/_Cheat Sheets/Runen.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 5911,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/_cheat-sheets/runen.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/_Cheat Sheets/Verletzungen.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2743,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/_cheat-sheets/verletzungen.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/_Cheat Sheets/Wildwandlungen.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 8441,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/_cheat-sheets/wildwandlungen.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/Magiesystem/_Zusammenfassung.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 6474,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/magiesystem/_zusammenfassung.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/Magiesystem/Artefakte.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1125,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/magiesystem/artefakte.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/Magiesystem/Begleiter.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 37704,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/magiesystem/begleiter.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/Magiesystem/Konstruktbau.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1739,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/magiesystem/konstruktbau.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/Magiesystem/Mentale Belastung und Flüche.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2190,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/magiesystem/mentale-belastung-und-flüche.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/Magiesystem/Ritusweben.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3202,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/magiesystem/ritusweben.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/Magiesystem/Runenschmieden.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 4169,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/magiesystem/runenschmieden.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/Magiesystem/Wildwandel.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 8366,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/magiesystem/wildwandel.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/Character Sheet.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 10880,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/character-sheet.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/Character Sheet CCE.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 13097,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/character-sheet-cce.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Cogent Artifice/Weitere neue Systeme.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 42354,
       "exportedPath": "cogent-artifice/_regelwerk/cogent-artifice/weitere-neue-systeme.html",
       "dependencies": []
     },
     "Cogent Artifice/_Regelwerk/Kerngrundlage.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 10335,
       "exportedPath": "cogent-artifice/_regelwerk/kerngrundlage.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/_Cheatsheets/Ambulia.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1792,
       "exportedPath": "cogent-artifice/_welt/_cheatsheets/ambulia.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/_Cheatsheets/Folia.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3352,
       "exportedPath": "cogent-artifice/_welt/_cheatsheets/folia.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/_Cheatsheets/Kampfstil.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 670,
       "exportedPath": "cogent-artifice/_welt/_cheatsheets/kampfstil.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Ambulia/Decemora.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1124,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/ambulia/decemora.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Ambulia/Furropallidus.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3211,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/ambulia/furropallidus.html",
       "dependencies": []
     },
+    "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Ambulia/Malucadductia.png": {
+      "modifiedTime": 1748017448683,
+      "sourceSize": 270353,
+      "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/ambulia/malucadductia.png",
+      "dependencies": []
+    },
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Ambulia/Malucadductia.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 4050,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/ambulia/malucadductia.html",
       "dependencies": [
         "cogent-artifice/_welt/biome/mediterrane-regionen/ambulia/malucadductia.png"
       ]
     },
-    "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Ambulia/Malucadductia.png": {
-      "modifiedTime": 1747947691959,
-      "sourceSize": 270353,
-      "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/ambulia/malucadductia.png",
-      "dependencies": []
-    },
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Folia/Crassina.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 240778,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/folia/crassina.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Folia/Crassina.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 200,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/folia/crassina.html",
       "dependencies": [
@@ -529,25 +529,25 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Folia/Cutibeeren.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 303451,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/folia/cutibeeren.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Folia/Cutibeeren.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 202,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/folia/cutibeeren.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Folia/Cutivex.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 325799,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/folia/cutivex.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Folia/Cutivex.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1485,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/folia/cutivex.html",
       "dependencies": [
@@ -556,19 +556,19 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Folia/Siccalbum.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1759,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/folia/siccalbum.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Pilea/Malaurm.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 229,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/pilea/malaurm.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Mediterrane Regionen/Mediterrane Regionen.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 404,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/mediterrane-regionen.html",
       "dependencies": [
@@ -576,31 +576,31 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Ozeane & Marine Küsten/Ambulia/Anglerfish.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 688,
       "exportedPath": "cogent-artifice/_welt/biome/ozeane-&-marine-küsten/ambulia/anglerfish.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Ozeane & Marine Küsten/Ambulia/Ente mit Pelikanschnabel.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 603,
       "exportedPath": "cogent-artifice/_welt/biome/ozeane-&-marine-küsten/ambulia/ente-mit-pelikanschnabel.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Ozeane & Marine Küsten/Ambulia/Inumbra.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 650,
       "exportedPath": "cogent-artifice/_welt/biome/ozeane-&-marine-küsten/ambulia/inumbra.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Ozeane & Marine Küsten/Folia/Korallenriff.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 76,
       "exportedPath": "cogent-artifice/_welt/biome/ozeane-&-marine-küsten/folia/korallenriff.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Ozeane & Marine Küsten/Folia/Plumacortex.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 240,
       "exportedPath": "cogent-artifice/_welt/biome/ozeane-&-marine-küsten/folia/plumacortex.html",
       "dependencies": [
@@ -608,13 +608,13 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Ozeane & Marine Küsten/Folia/Seetang.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 80,
       "exportedPath": "cogent-artifice/_welt/biome/ozeane-&-marine-küsten/folia/seetang.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Ozeane & Marine Küsten/Ozeane & Marine Küsten.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 300,
       "exportedPath": "cogent-artifice/_welt/biome/ozeane-&-marine-küsten/ozeane-&-marine-küsten.html",
       "dependencies": [
@@ -622,31 +622,31 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Polarregionen/Ambulia/Leonix.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 620,
       "exportedPath": "cogent-artifice/_welt/biome/polarregionen/ambulia/leonix.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Polarregionen/Ambulia/Pinguin.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 623,
       "exportedPath": "cogent-artifice/_welt/biome/polarregionen/ambulia/pinguin.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Polarregionen/Folia/Stralux.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 191,
       "exportedPath": "cogent-artifice/_welt/biome/polarregionen/folia/stralux.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Polarregionen/Pilea/Straestus.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 214,
       "exportedPath": "cogent-artifice/_welt/biome/polarregionen/pilea/straestus.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Polarregionen/Polarregionen.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 504,
       "exportedPath": "cogent-artifice/_welt/biome/polarregionen/polarregionen.html",
       "dependencies": [
@@ -654,13 +654,13 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Ambulia/Callidus.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 6774948,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/callidus.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Ambulia/Callidus.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3306,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/callidus.html",
       "dependencies": [
@@ -668,13 +668,13 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Ambulia/Cerelicursa.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 248573,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/cerelicursa.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Ambulia/Cerelicursa.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3698,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/cerelicursa.html",
       "dependencies": [
@@ -682,13 +682,13 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Ambulia/Impés.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1764138,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/impés.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Ambulia/Impés.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3395,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/impés.html",
       "dependencies": [
@@ -696,13 +696,13 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Ambulia/Perilux.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 4094523,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/perilux.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Ambulia/Perilux.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2781,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/perilux.html",
       "dependencies": [
@@ -710,13 +710,13 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Ambulia/Saltus.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 5473269,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/saltus.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Ambulia/Saltus.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2482,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/saltus.html",
       "dependencies": [
@@ -724,7 +724,7 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Folia/Miraculum.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1840,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/folia/miraculum.html",
       "dependencies": [
@@ -732,19 +732,19 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Folia/Miraculum.png.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3139407,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/folia/miraculum.png.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Folia/Vellbum.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2736499,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/folia/vellbum.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Folia/Vellbum.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1857,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/folia/vellbum.html",
       "dependencies": [
@@ -752,7 +752,7 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Savanne/Savanne.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1007,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/savanne.html",
       "dependencies": [
@@ -760,13 +760,13 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Accubaccurra.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 235050,
       "exportedPath": "cogent-artifice/_welt/biome/subtropen-&-sumpfländereien/ambulia/accubaccurra.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Accubaccurra.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2683,
       "exportedPath": "cogent-artifice/_welt/biome/subtropen-&-sumpfländereien/ambulia/accubaccurra.html",
       "dependencies": [
@@ -774,55 +774,55 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Chromadra.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1182,
       "exportedPath": "cogent-artifice/_welt/biome/subtropen-&-sumpfländereien/ambulia/chromadra.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Confractossis.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 717,
       "exportedPath": "cogent-artifice/_welt/biome/subtropen-&-sumpfländereien/ambulia/confractossis.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Straußenähnlicher Vogel.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 642,
       "exportedPath": "cogent-artifice/_welt/biome/subtropen-&-sumpfländereien/ambulia/straußenähnlicher-vogel.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Terrasiccaris.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 847,
       "exportedPath": "cogent-artifice/_welt/biome/subtropen-&-sumpfländereien/ambulia/terrasiccaris.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Subtropen & Sumpfländereien/Folia/Multabum.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 169,
       "exportedPath": "cogent-artifice/_welt/biome/subtropen-&-sumpfländereien/folia/multabum.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Subtropen & Sumpfländereien/Folia/Wasserrosen.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 119,
       "exportedPath": "cogent-artifice/_welt/biome/subtropen-&-sumpfländereien/folia/wasserrosen.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Subtropen & Sumpfländereien/Pilea/Fulmeneques.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1827,
       "exportedPath": "cogent-artifice/_welt/biome/subtropen-&-sumpfländereien/pilea/fulmeneques.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Subtropen & Sumpfländereien/Pilea/Mandamucus.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 4822,
       "exportedPath": "cogent-artifice/_welt/biome/subtropen-&-sumpfländereien/pilea/mandamucus.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Subtropen & Sumpfländereien/Subtropen & Sumpfländereien.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 743,
       "exportedPath": "cogent-artifice/_welt/biome/subtropen-&-sumpfländereien/subtropen-&-sumpfländereien.html",
       "dependencies": [
@@ -830,31 +830,31 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Taiga/Ambulia/Velatrox.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 826,
       "exportedPath": "cogent-artifice/_welt/biome/taiga/ambulia/velatrox.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Taiga/Folia/Gelorum.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 153,
       "exportedPath": "cogent-artifice/_welt/biome/taiga/folia/gelorum.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Taiga/Folia/Schwarzgeflecht.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 731,
       "exportedPath": "cogent-artifice/_welt/biome/taiga/folia/schwarzgeflecht.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Taiga/Pilea/Illusionspilz.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 681,
       "exportedPath": "cogent-artifice/_welt/biome/taiga/pilea/illusionspilz.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Taiga/Taiga.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 305,
       "exportedPath": "cogent-artifice/_welt/biome/taiga/taiga.html",
       "dependencies": [
@@ -862,7 +862,7 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Magnamaw.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2762,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/magnamaw.html",
       "dependencies": [
@@ -870,33 +870,33 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Magnamaw.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 271169,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/magnamaw.png",
       "dependencies": []
     },
-    "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Noctululare.png": {
-      "modifiedTime": 1747947691959,
-      "sourceSize": 293030,
-      "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/noctululare.png",
-      "dependencies": []
-    },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Noctululare.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2597,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/noctululare.html",
       "dependencies": [
         "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/noctululare.png"
       ]
     },
+    "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Noctululare.png": {
+      "modifiedTime": 1748017448683,
+      "sourceSize": 293030,
+      "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/noctululare.png",
+      "dependencies": []
+    },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Nota.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 232483,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/nota.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Nota.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2637,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/nota.html",
       "dependencies": [
@@ -904,13 +904,13 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Striatudentis.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 300786,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/striatudentis.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Striatudentis.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3638,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/striatudentis.html",
       "dependencies": [
@@ -918,13 +918,13 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Visec.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 293737,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/visec.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Ambulia/Visec.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2076,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/visec.html",
       "dependencies": [
@@ -932,7 +932,7 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Folia/Appearange.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3432,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/folia/appearange.html",
       "dependencies": [
@@ -940,13 +940,13 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Folia/Appearange.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 289141,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/folia/appearange.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Folia/Ignistella.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3060,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/folia/ignistella.html",
       "dependencies": [
@@ -954,19 +954,19 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Folia/Ignistella.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 304810,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/folia/ignistella.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Pilea/Mortovello.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2030,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/pilea/mortovello.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Tropischer Regenwald/Tropischer Regenwald.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 452,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/tropischer-regenwald.html",
       "dependencies": [
@@ -974,31 +974,31 @@
       ]
     },
     "Cogent Artifice/_Welt/Biome/Wüste/Ambulia/Respirafinalis.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3060,
       "exportedPath": "cogent-artifice/_welt/biome/wüste/ambulia/respirafinalis.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Wüste/Ambulia/Rolli.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3194,
       "exportedPath": "cogent-artifice/_welt/biome/wüste/ambulia/rolli.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Wüste/Folia/Salrubus.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2719,
       "exportedPath": "cogent-artifice/_welt/biome/wüste/folia/salrubus.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Wüste/Folia/Ultimus.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2641,
       "exportedPath": "cogent-artifice/_welt/biome/wüste/folia/ultimus.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Biome/Wüste/Wüste.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 631,
       "exportedPath": "cogent-artifice/_welt/biome/wüste/wüste.html",
       "dependencies": [
@@ -1006,19 +1006,19 @@
       ]
     },
     "Cogent Artifice/_Welt/Global Information/Entdeckung von Chimerit.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3683,
       "exportedPath": "cogent-artifice/_welt/global-information/entdeckung-von-chimerit.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Global Information/Erster Kontakt mit magischen Pflanzen.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 4460,
       "exportedPath": "cogent-artifice/_welt/global-information/erster-kontakt-mit-magischen-pflanzen.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Global Information/Havens tektonischer Aufbau.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 215,
       "exportedPath": "cogent-artifice/_welt/global-information/havens-tektonischer-aufbau.html",
       "dependencies": [
@@ -1029,169 +1029,169 @@
       ]
     },
     "Cogent Artifice/_Welt/Global Information/Zeitachse.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 282,
       "exportedPath": "cogent-artifice/_welt/global-information/zeitachse.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Global Information/Zentrales Direktorat.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1804,
       "exportedPath": "cogent-artifice/_welt/global-information/zentrales-direktorat.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Encouter-Karten/^Der Weg Nach Quinnboc.wonderdraft_map": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 360896,
       "exportedPath": "cogent-artifice/_welt/haven-globus/encouter-karten/^der-weg-nach-quinnboc.wonderdraft_map",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Encouter-Karten/^Quinnboc Leer + Marktplatz.wonderdraft_map": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3202750,
       "exportedPath": "cogent-artifice/_welt/haven-globus/encouter-karten/^quinnboc-leer-+-marktplatz.wonderdraft_map",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/^Der Weg Nach Quinnboc.wonderdraft_map": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 379035,
       "exportedPath": "cogent-artifice/_welt/haven-globus/^der-weg-nach-quinnboc.wonderdraft_map",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Haeven Biomes.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 33200440,
       "exportedPath": "cogent-artifice/_welt/haven-globus/haeven-biomes.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Haven beschriftet.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 33528240,
       "exportedPath": "cogent-artifice/_welt/haven-globus/haven-beschriftet.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Haven stumm.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 33030705,
       "exportedPath": "cogent-artifice/_welt/haven-globus/haven-stumm.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Haven V0 - blank.wonderdraft_map": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 4536360,
       "exportedPath": "cogent-artifice/_welt/haven-globus/haven-v0-blank.wonderdraft_map",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Haven V1 - Biome frei Schnauze.wonderdraft_map": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 11683872,
       "exportedPath": "cogent-artifice/_welt/haven-globus/haven-v1-biome-frei-schnauze.wonderdraft_map",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Haven V2 - Biome Schritt für Schnitt.wonderdraft_map": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 8442625,
       "exportedPath": "cogent-artifice/_welt/haven-globus/haven-v2-biome-schritt-für-schnitt.wonderdraft_map",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Haven V3 - stumm.wonderdraft_map": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 16816414,
       "exportedPath": "cogent-artifice/_welt/haven-globus/haven-v3-stumm.wonderdraft_map",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Haven V4 - beschriftet.wonderdraft_map": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 16832282,
       "exportedPath": "cogent-artifice/_welt/haven-globus/haven-v4-beschriftet.wonderdraft_map",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Haven V4 [en].wonderdraft_map": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 16832193,
       "exportedPath": "cogent-artifice/_welt/haven-globus/haven-v4-[en].wonderdraft_map",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Haven V5 - POI System.wonderdraft_map": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 16835344,
       "exportedPath": "cogent-artifice/_welt/haven-globus/haven-v5-poi-system.wonderdraft_map",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/POI Syscovery.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 33193094,
       "exportedPath": "cogent-artifice/_welt/haven-globus/poi-syscovery.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Tectonic Map V0.jpg~": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1199711,
       "exportedPath": "cogent-artifice/_welt/haven-globus/tectonic-map-v0.jpg~",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Tectonic Map V0.kra~": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3203093,
       "exportedPath": "cogent-artifice/_welt/haven-globus/tectonic-map-v0.kra~",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Tectonic Map V0.kra": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 7350798,
       "exportedPath": "cogent-artifice/_welt/haven-globus/tectonic-map-v0.kra",
       "dependencies": []
     },
-    "Cogent Artifice/_Welt/Haven Globus/Tectonic Map V1.kra": {
-      "modifiedTime": 1747947691959,
-      "sourceSize": 7350798,
-      "exportedPath": "cogent-artifice/_welt/haven-globus/tectonic-map-v1.kra",
-      "dependencies": []
-    },
     "Cogent Artifice/_Welt/Haven Globus/Tectonic Map V1.kra~": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3203092,
       "exportedPath": "cogent-artifice/_welt/haven-globus/tectonic-map-v1.kra~",
       "dependencies": []
     },
+    "Cogent Artifice/_Welt/Haven Globus/Tectonic Map V1.kra": {
+      "modifiedTime": 1748017448683,
+      "sourceSize": 7350798,
+      "exportedPath": "cogent-artifice/_welt/haven-globus/tectonic-map-v1.kra",
+      "dependencies": []
+    },
     "Cogent Artifice/_Welt/Haven Globus/Tektonische Karte V0.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2321578,
       "exportedPath": "cogent-artifice/_welt/haven-globus/tektonische-karte-v0.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Haven Globus/Tektonische Karte V1.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 4667817,
       "exportedPath": "cogent-artifice/_welt/haven-globus/tektonische-karte-v1.png",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Dalris/POI/Arcademia Belmore.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 65,
       "exportedPath": "cogent-artifice/_welt/territorien/dalris/poi/arcademia-belmore.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Dalris/POI/Criwether Bergkessel.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 39,
       "exportedPath": "cogent-artifice/_welt/territorien/dalris/poi/criwether-bergkessel.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Dalris/POI/Shaeras.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 51,
       "exportedPath": "cogent-artifice/_welt/territorien/dalris/poi/shaeras.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Dalris/POI/Zentrales Direktorat.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 69,
       "exportedPath": "cogent-artifice/_welt/territorien/dalris/poi/zentrales-direktorat.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Dalris/Dalris.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 489,
       "exportedPath": "cogent-artifice/_welt/territorien/dalris/dalris.html",
       "dependencies": [
@@ -1199,37 +1199,37 @@
       ]
     },
     "Cogent Artifice/_Welt/Territorien/Egen/POI/Arcademia Merarth.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 51,
       "exportedPath": "cogent-artifice/_welt/territorien/egen/poi/arcademia-merarth.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Egen/POI/Egen (Hauptstadt).md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 37,
       "exportedPath": "cogent-artifice/_welt/territorien/egen/poi/egen-(hauptstadt).html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Egen/POI/Fastigaspina.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 40,
       "exportedPath": "cogent-artifice/_welt/territorien/egen/poi/fastigaspina.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Egen/POI/Schwarzlichthöhle.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "cogent-artifice/_welt/territorien/egen/poi/schwarzlichthöhle.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Egen/POI/Zentrales Direktorat.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 70,
       "exportedPath": "cogent-artifice/_welt/territorien/egen/poi/zentrales-direktorat.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Egen/Egenythe Domäne.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 71,
       "exportedPath": "cogent-artifice/_welt/territorien/egen/egenythe-domäne.html",
       "dependencies": [
@@ -1237,43 +1237,43 @@
       ]
     },
     "Cogent Artifice/_Welt/Territorien/Gromorea/POI/Arcademia Fleagwarth.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 55,
       "exportedPath": "cogent-artifice/_welt/territorien/gromorea/poi/arcademia-fleagwarth.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Gromorea/POI/Inadell.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 41,
       "exportedPath": "cogent-artifice/_welt/territorien/gromorea/poi/inadell.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Gromorea/POI/Itumesa.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 53,
       "exportedPath": "cogent-artifice/_welt/territorien/gromorea/poi/itumesa.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Gromorea/POI/Thurnfrost.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 50,
       "exportedPath": "cogent-artifice/_welt/territorien/gromorea/poi/thurnfrost.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Gromorea/POI/Zentrales Direktorat.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 101,
       "exportedPath": "cogent-artifice/_welt/territorien/gromorea/poi/zentrales-direktorat.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Gromorea/POI/Zwillingsspitze.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 53,
       "exportedPath": "cogent-artifice/_welt/territorien/gromorea/poi/zwillingsspitze.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Gromorea/Gromorea.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 862,
       "exportedPath": "cogent-artifice/_welt/territorien/gromorea/gromorea.html",
       "dependencies": [
@@ -1281,13 +1281,13 @@
       ]
     },
     "Cogent Artifice/_Welt/Territorien/Kajiatare/POI/Amniris.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 52,
       "exportedPath": "cogent-artifice/_welt/territorien/kajiatare/poi/amniris.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Kajiatare/Kajiatare.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 76,
       "exportedPath": "cogent-artifice/_welt/territorien/kajiatare/kajiatare.html",
       "dependencies": [
@@ -1295,31 +1295,31 @@
       ]
     },
     "Cogent Artifice/_Welt/Territorien/Masurin/POI/Arcademia Slessany.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 54,
       "exportedPath": "cogent-artifice/_welt/territorien/masurin/poi/arcademia-slessany.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Masurin/POI/Fastigaspina.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 57,
       "exportedPath": "cogent-artifice/_welt/territorien/masurin/poi/fastigaspina.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Masurin/POI/Yuntis.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 51,
       "exportedPath": "cogent-artifice/_welt/territorien/masurin/poi/yuntis.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Masurin/POI/Zentrales Direktorat.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 83,
       "exportedPath": "cogent-artifice/_welt/territorien/masurin/poi/zentrales-direktorat.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Masurin/Mazurin.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 84,
       "exportedPath": "cogent-artifice/_welt/territorien/masurin/mazurin.html",
       "dependencies": [
@@ -1327,43 +1327,43 @@
       ]
     },
     "Cogent Artifice/_Welt/Territorien/Thaetia/POI/Arcademia Armenárde.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 358,
       "exportedPath": "cogent-artifice/_welt/territorien/thaetia/poi/arcademia-armenárde.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Thaetia/POI/Bezirk Griven.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 488,
       "exportedPath": "cogent-artifice/_welt/territorien/thaetia/poi/bezirk-griven.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Thaetia/POI/Pluvimesa (Ost).md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 52,
       "exportedPath": "cogent-artifice/_welt/territorien/thaetia/poi/pluvimesa-(ost).html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Thaetia/POI/Pluvimesa (West).md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 52,
       "exportedPath": "cogent-artifice/_welt/territorien/thaetia/poi/pluvimesa-(west).html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Thaetia/POI/Profusteri.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 51,
       "exportedPath": "cogent-artifice/_welt/territorien/thaetia/poi/profusteri.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Thaetia/POI/Quinnboc.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 244,
       "exportedPath": "cogent-artifice/_welt/territorien/thaetia/poi/quinnboc.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Thaetia/POI/Xephis.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 158,
       "exportedPath": "cogent-artifice/_welt/territorien/thaetia/poi/xephis.html",
       "dependencies": [
@@ -1371,19 +1371,19 @@
       ]
     },
     "Cogent Artifice/_Welt/Territorien/Thaetia/POI/Yarborgsee.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 51,
       "exportedPath": "cogent-artifice/_welt/territorien/thaetia/poi/yarborgsee.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Thaetia/POI/Zentrales Direktorat.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 77,
       "exportedPath": "cogent-artifice/_welt/territorien/thaetia/poi/zentrales-direktorat.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Thaetia/Thaetia.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 8643,
       "exportedPath": "cogent-artifice/_welt/territorien/thaetia/thaetia.html",
       "dependencies": [
@@ -1391,25 +1391,25 @@
       ]
     },
     "Cogent Artifice/_Welt/Territorien/Thaetia/Thaetianische Erzählung über die Entstehung der Welt.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2219,
       "exportedPath": "cogent-artifice/_welt/territorien/thaetia/thaetianische-erzählung-über-die-entstehung-der-welt.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Territorien/Thaetia/Traditionelle Theologie.canvas": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1707,
       "exportedPath": "cogent-artifice/_welt/territorien/thaetia/traditionelle-theologie.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Allgemeine Gegenstände.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 869,
       "exportedPath": "cogent-artifice/_welt/allgemeine-gegenstände.html",
       "dependencies": []
     },
     "Cogent Artifice/_Welt/Der Planet Haven.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 8042,
       "exportedPath": "cogent-artifice/_welt/der-planet-haven.html",
       "dependencies": [
@@ -1420,979 +1420,979 @@
       ]
     },
     "Cogent Artifice/Abenteuer/_OneShots/Der Putsch in Quinnboc/Sessions/0.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3844,
       "exportedPath": "cogent-artifice/abenteuer/_oneshots/der-putsch-in-quinnboc/sessions/0.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/_OneShots/Der Putsch in Quinnboc/Sessions/1 Reise nach Quinnboc.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2500,
       "exportedPath": "cogent-artifice/abenteuer/_oneshots/der-putsch-in-quinnboc/sessions/1-reise-nach-quinnboc.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/_OneShots/Der Putsch in Quinnboc/Sessions/2 Der Überfall.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 240,
       "exportedPath": "cogent-artifice/abenteuer/_oneshots/der-putsch-in-quinnboc/sessions/2-der-überfall.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/_OneShots/Der Putsch in Quinnboc/Transiente Charaktere/Insgraß G. Bisen.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 471,
       "exportedPath": "cogent-artifice/abenteuer/_oneshots/der-putsch-in-quinnboc/transiente-charaktere/insgraß-g.-bisen.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/_OneShots/Der Putsch in Quinnboc/Transiente Charaktere/Irzadel Gwolum.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 137,
       "exportedPath": "cogent-artifice/abenteuer/_oneshots/der-putsch-in-quinnboc/transiente-charaktere/irzadel-gwolum.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/_OneShots/Der Putsch in Quinnboc/Transiente Charaktere/Vulpor 'Don' Gwolum.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 83,
       "exportedPath": "cogent-artifice/abenteuer/_oneshots/der-putsch-in-quinnboc/transiente-charaktere/vulpor-'don'-gwolum.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/_OneShots/Der Putsch in Quinnboc/_Events.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 18966,
       "exportedPath": "cogent-artifice/abenteuer/_oneshots/der-putsch-in-quinnboc/_events.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/_OneShots/Der Putsch in Quinnboc/Besondere Gegenstände.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 741,
       "exportedPath": "cogent-artifice/abenteuer/_oneshots/der-putsch-in-quinnboc/besondere-gegenstände.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/_OneShots/Der Putsch in Quinnboc/Orte.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 26,
       "exportedPath": "cogent-artifice/abenteuer/_oneshots/der-putsch-in-quinnboc/orte.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/_OneShots/Der Putsch in Quinnboc/Persistente Charaktere.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 64,
       "exportedPath": "cogent-artifice/abenteuer/_oneshots/der-putsch-in-quinnboc/persistente-charaktere.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/_OneShots/Die Schwarzlichthöhle/_Events.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1801,
       "exportedPath": "cogent-artifice/abenteuer/_oneshots/die-schwarzlichthöhle/_events.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Mr Armenárde/Orte/0. Das Anwesen/Zusammenfassung.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 22,
       "exportedPath": "cogent-artifice/abenteuer/mr-armenárde/orte/0.-das-anwesen/zusammenfassung.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Mr Armenárde/Orte/1. Antikas - Dalris/Zusammenfassung.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 22,
       "exportedPath": "cogent-artifice/abenteuer/mr-armenárde/orte/1.-antikas-dalris/zusammenfassung.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Mr Armenárde/Orte/2. Folia Galoria - Kajiatare/Zusammenfassung.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 22,
       "exportedPath": "cogent-artifice/abenteuer/mr-armenárde/orte/2.-folia-galoria-kajiatare/zusammenfassung.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Mr Armenárde/Orte/3. Avisbay - Inadell/Zusammenfassung.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 657,
       "exportedPath": "cogent-artifice/abenteuer/mr-armenárde/orte/3.-avisbay-inadell/zusammenfassung.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Mr Armenárde/Orte/4. Frostwüste - Egen/Zusammenfassung.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 22,
       "exportedPath": "cogent-artifice/abenteuer/mr-armenárde/orte/4.-frostwüste-egen/zusammenfassung.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Mr Armenárde/Orte/5. Feuersturm - Thurnfrost/Zusammenfassung.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 22,
       "exportedPath": "cogent-artifice/abenteuer/mr-armenárde/orte/5.-feuersturm-thurnfrost/zusammenfassung.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Mr Armenárde/Orte/6. Voidstar - Mazurine Marine/Zusammenfassung.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 24,
       "exportedPath": "cogent-artifice/abenteuer/mr-armenárde/orte/6.-voidstar-mazurine-marine/zusammenfassung.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Mr Armenárde/Personen/Transiente Charaktere/Laya 'Feng-Hua' Bisen.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 5178,
       "exportedPath": "cogent-artifice/abenteuer/mr-armenárde/personen/transiente-charaktere/laya-'feng-hua'-bisen.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Mr Armenárde/Ideen.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 294,
       "exportedPath": "cogent-artifice/abenteuer/mr-armenárde/ideen.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Mr Armenárde/Zusammenfassung.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1704,
       "exportedPath": "cogent-artifice/abenteuer/mr-armenárde/zusammenfassung.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Persistente Charaktere/_Generische NPC.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1002,
       "exportedPath": "cogent-artifice/abenteuer/persistente-charaktere/_generische-npc.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Persistente Charaktere/Boruswa Brigarda.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 4202,
       "exportedPath": "cogent-artifice/abenteuer/persistente-charaktere/boruswa-brigarda.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Persistente Charaktere/Corvin Aranar.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3222,
       "exportedPath": "cogent-artifice/abenteuer/persistente-charaktere/corvin-aranar.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Persistente Charaktere/Grevi Krum.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3687,
       "exportedPath": "cogent-artifice/abenteuer/persistente-charaktere/grevi-krum.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Persistente Charaktere/Hare Flevora.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3959,
       "exportedPath": "cogent-artifice/abenteuer/persistente-charaktere/hare-flevora.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Persistente Charaktere/Luminesca.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3779,
       "exportedPath": "cogent-artifice/abenteuer/persistente-charaktere/luminesca.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Persistente Charaktere/Raki Khiu.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 4572,
       "exportedPath": "cogent-artifice/abenteuer/persistente-charaktere/raki-khiu.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Persistente Charaktere/Sana Giuli.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 4021,
       "exportedPath": "cogent-artifice/abenteuer/persistente-charaktere/sana-giuli.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Persistente Charaktere/Vorgefertigte Charaktere.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 183,
       "exportedPath": "cogent-artifice/abenteuer/persistente-charaktere/vorgefertigte-charaktere.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Persistente Charaktere/Xuca Krof.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3529,
       "exportedPath": "cogent-artifice/abenteuer/persistente-charaktere/xuca-krof.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Persistente Charaktere/Zamira Aranar.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3395,
       "exportedPath": "cogent-artifice/abenteuer/persistente-charaktere/zamira-aranar.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/Persistente Charaktere/Zhul Chongana.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 4029,
       "exportedPath": "cogent-artifice/abenteuer/persistente-charaktere/zhul-chongana.html",
       "dependencies": []
     },
     "Cogent Artifice/Abenteuer/_00. GENERAL THEME.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 464,
       "exportedPath": "cogent-artifice/abenteuer/_00.-general-theme.html",
       "dependencies": []
     },
     "Cogent Artifice/index.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1257,
       "exportedPath": "cogent-artifice/index.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/5D Chapters/Additional Mechanics/Additional Mechanics.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1712,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/5d-chapters/additional-mechanics/additional-mechanics.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/5D Chapters/Additional Mechanics/Adrenaline.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/5d-chapters/additional-mechanics/adrenaline.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/5D Chapters/Additional Mechanics/Commerce.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 5157,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/5d-chapters/additional-mechanics/commerce.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/5D Chapters/Additional Mechanics/Downtime.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 5613,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/5d-chapters/additional-mechanics/downtime.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/5D Chapters/Additional Mechanics/Travel.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/5d-chapters/additional-mechanics/travel.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/5D Chapters/0. Preamble.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1233,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/5d-chapters/0.-preamble.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/5D Chapters/Character Creation.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3918,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/5d-chapters/character-creation.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/5D Chapters/Character Sheet.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 9508,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/5d-chapters/character-sheet.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/5D Chapters/Conflicts.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 19692,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/5d-chapters/conflicts.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/5D Chapters/Constitution and Resilience.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 21976,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/5d-chapters/constitution-and-resilience.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/5D Chapters/Skill Checks.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 4758,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/5d-chapters/skill-checks.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/5D Chapters/Weapons and Armor.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 27,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/5d-chapters/weapons-and-armor.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/Abenteuer-Ideen/Settings/Dämonenbeschwörung.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 198,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/abenteuer-ideen/settings/dämonenbeschwörung.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/Abenteuer-Ideen/Settings/Dungeon.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 140,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/abenteuer-ideen/settings/dungeon.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/Abenteuer-Ideen/Settings/Kampf in der Taverne.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 157,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/abenteuer-ideen/settings/kampf-in-der-taverne.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/Abenteuer-Ideen/Settings/Kollosseum.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 150,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/abenteuer-ideen/settings/kollosseum.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/Abenteuer-Ideen/Settings/Marktplatzschlacht.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 280,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/abenteuer-ideen/settings/marktplatzschlacht.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/Abenteuer-Ideen/Settings/Monsterjagd im Nebel.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 166,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/abenteuer-ideen/settings/monsterjagd-im-nebel.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/Abenteuer-Ideen/Settings/Schiffsgefecht.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 146,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/abenteuer-ideen/settings/schiffsgefecht.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/Abenteuer-Ideen/Settings/Tanzbühne.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 377,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/abenteuer-ideen/settings/tanzbühne.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/Abenteuer-Ideen/Settings/Tempel.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 143,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/abenteuer-ideen/settings/tempel.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/Abenteuer-Ideen/Aerial Cavalry.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1769,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/abenteuer-ideen/aerial-cavalry.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/Abenteuer-Ideen/Der entlaufene Zug.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 673,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/abenteuer-ideen/der-entlaufene-zug.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/Abenteuer-Ideen/Gefangenes Schiff.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 333,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/abenteuer-ideen/gefangenes-schiff.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/5D.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 494,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/5d.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/Battle Engine Test.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 561,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/battle-engine-test.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/5Dice/Injury Slots Battle Engine.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 12726,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/5dice/injury-slots-battle-engine.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/Avatar Legends - Unter Purpurner Flagge/Unter Purpurner Flagge.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 5316,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/avatar-legends-unter-purpurner-flagge/unter-purpurner-flagge.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Die Höllenmaschine/Party/Kallista.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1000,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-die-höllenmaschine/party/kallista.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Die Höllenmaschine/Party/So-Kehur.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 221,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-die-höllenmaschine/party/so-kehur.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Die Höllenmaschine/Party/Vall.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-die-höllenmaschine/party/vall.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Die Höllenmaschine/Party/Varis.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-die-höllenmaschine/party/varis.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Die Höllenmaschine/Party/Zarola.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-die-höllenmaschine/party/zarola.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Die Höllenmaschine/Sessions/2025-01-19.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 12200,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-die-höllenmaschine/sessions/2025-01-19.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Die Höllenmaschine/Sessions/2025-02-16.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 20751,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-die-höllenmaschine/sessions/2025-02-16.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Die Jahuna-Höhlen/Sessions/2025-04-27.md": {
-      "modifiedTime": 1747947691959,
-      "sourceSize": 53023,
+      "modifiedTime": 1748017448683,
+      "sourceSize": 58822,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-die-jahuna-höhlen/sessions/2025-04-27.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Die Zeitlücke/Party/Kallista.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1000,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-die-zeitlücke/party/kallista.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Die Zeitlücke/Party/So-Kehur.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 221,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-die-zeitlücke/party/so-kehur.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Die Zeitlücke/Party/Vall.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-die-zeitlücke/party/vall.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Die Zeitlücke/Party/Varis.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-die-zeitlücke/party/varis.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Die Zeitlücke/Party/Zarola.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-die-zeitlücke/party/zarola.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Die Zeitlücke/Sessions/2025-03-30.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 9782,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-die-zeitlücke/sessions/2025-03-30.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Schamanentricks/Party/Kallista.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1000,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-schamanentricks/party/kallista.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Schamanentricks/Party/So-Kehur.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 221,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-schamanentricks/party/so-kehur.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Schamanentricks/Party/Vall.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-schamanentricks/party/vall.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Schamanentricks/Party/Zarola.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-schamanentricks/party/zarola.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/_OneShots/DnD 5E - Schamanentricks/Sessions/2025-03-02.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 49544,
       "exportedPath": "pnp-mit-daniel/kampagnen/_oneshots/dnd-5e-schamanentricks/sessions/2025-03-02.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Orga/Rollenbücher/Beschützer.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 331,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/orga/rollenbücher/beschützer.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Orga/Rollenbücher/Draufgänger.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 319,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/orga/rollenbücher/draufgänger.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Orga/Rollenbücher/Eiserne.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 352,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/orga/rollenbücher/eiserne.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Orga/Rollenbücher/Hammer.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 288,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/orga/rollenbücher/hammer.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Orga/Rollenbücher/Idealist.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 334,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/orga/rollenbücher/idealist.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Orga/Rollenbücher/Ikone.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 324,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/orga/rollenbücher/ikone.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Orga/Rollenbücher/Pfeiler.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 376,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/orga/rollenbücher/pfeiler.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Orga/Rollenbücher/Schlitzohr.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 364,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/orga/rollenbücher/schlitzohr.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Orga/Rollenbücher/Sprössling.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 281,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/orga/rollenbücher/sprössling.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Orga/Rollenbücher/Wunderkind.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 293,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/orga/rollenbücher/wunderkind.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Party/Felix PC.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 42,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/party/felix-pc.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Party/Julia PC.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 58,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/party/julia-pc.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Party/Laura PC.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 54,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/party/laura-pc.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Party/Neele PC.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 58,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/party/neele-pc.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Party/Tim PC.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 54,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/party/tim-pc.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Party/Torben PC.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 61,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/party/torben-pc.html",
       "dependencies": []
     },
     "PnP mit Daniel/Kampagnen/Avatar Legends Kampagne/Generalnotizen.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 109,
       "exportedPath": "pnp-mit-daniel/kampagnen/avatar-legends-kampagne/generalnotizen.html",
       "dependencies": []
     },
     "PnP mit Daniel/Spieler/Daniel.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/spieler/daniel.html",
       "dependencies": []
     },
     "PnP mit Daniel/Spieler/Felix.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/spieler/felix.html",
       "dependencies": []
     },
     "PnP mit Daniel/Spieler/Julia.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/spieler/julia.html",
       "dependencies": []
     },
     "PnP mit Daniel/Spieler/Laura.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/spieler/laura.html",
       "dependencies": []
     },
     "PnP mit Daniel/Spieler/Neele.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/spieler/neele.html",
       "dependencies": []
     },
     "PnP mit Daniel/Spieler/Tim.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/spieler/tim.html",
       "dependencies": []
     },
     "PnP mit Daniel/Spieler/Torben.md": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 0,
       "exportedPath": "pnp-mit-daniel/spieler/torben.html",
       "dependencies": []
     },
     "_config.yml": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 53,
       "exportedPath": "_config.yml",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/mediterrane-regionen/ambulia/malucadductia.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 270353,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/ambulia/malucadductia.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/mediterrane-regionen/folia/crassina.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 240778,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/folia/crassina.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/mediterrane-regionen/folia/cutivex.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 325799,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/folia/cutivex.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/mediterrane-regionen/folia/cutibeeren.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 303451,
       "exportedPath": "cogent-artifice/_welt/biome/mediterrane-regionen/folia/cutibeeren.png",
       "dependencies": []
     },
     "lib/media/haeven-biomes.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 33200440,
       "exportedPath": "lib/media/haeven-biomes.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/savanne/ambulia/callidus.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 6774948,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/callidus.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/savanne/ambulia/cerelicursa.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 248573,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/cerelicursa.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/savanne/ambulia/impés.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1764138,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/impés.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/savanne/ambulia/perilux.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 4094523,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/perilux.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/savanne/ambulia/saltus.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 5473269,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/ambulia/saltus.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/savanne/folia/miraculum.png.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 3139407,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/folia/miraculum.png.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/savanne/folia/vellbum.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2736499,
       "exportedPath": "cogent-artifice/_welt/biome/savanne/folia/vellbum.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/subtropen-&-sumpfländereien/ambulia/accubaccurra.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 235050,
       "exportedPath": "cogent-artifice/_welt/biome/subtropen-&-sumpfländereien/ambulia/accubaccurra.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/magnamaw.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 271169,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/magnamaw.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/noctululare.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 293030,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/noctululare.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/nota.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 232483,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/nota.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/striatudentis.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 300786,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/striatudentis.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/visec.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 293737,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/ambulia/visec.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/tropischer-regenwald/folia/appearange.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 289141,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/folia/appearange.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/biome/tropischer-regenwald/folia/ignistella.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 304810,
       "exportedPath": "cogent-artifice/_welt/biome/tropischer-regenwald/folia/ignistella.png",
       "dependencies": []
     },
     "lib/media/tektonische-karte-v0.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2321578,
       "exportedPath": "lib/media/tektonische-karte-v0.png",
       "dependencies": []
     },
     "lib/media/tektonische-karte-v1.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 4667817,
       "exportedPath": "lib/media/tektonische-karte-v1.png",
       "dependencies": []
     },
     "lib/media/haven-stumm.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 33030705,
       "exportedPath": "lib/media/haven-stumm.png",
       "dependencies": []
     },
     "lib/media/haven-beschriftet.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 33528240,
       "exportedPath": "lib/media/haven-beschriftet.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/haven-globus/tektonische-karte-v0.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 2321578,
       "exportedPath": "cogent-artifice/_welt/haven-globus/tektonische-karte-v0.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/haven-globus/haeven-biomes.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 33200440,
       "exportedPath": "cogent-artifice/_welt/haven-globus/haeven-biomes.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/haven-globus/haven-stumm.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 33030705,
       "exportedPath": "cogent-artifice/_welt/haven-globus/haven-stumm.png",
       "dependencies": []
     },
     "cogent-artifice/_welt/haven-globus/haven-beschriftet.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 33528240,
       "exportedPath": "cogent-artifice/_welt/haven-globus/haven-beschriftet.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 164178,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 27452,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1747947691959,
+      "modifiedTime": 1748017448683,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
